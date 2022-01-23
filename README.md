@@ -16,4 +16,10 @@ Here we have the campgrounds from all over the world.
 immediately.The user cannot send a malicious query in the url of the website.
 -Also the networks adding the images to the campgrounds have been secured and only the trusted networks are allowed to that.
 
+# Deployment
+The application has been deployed successfully using heruko-server (the link of which is: https://possessed-goosebumps-72960.herokuapp.com)
+
+Hope you find the application intresting.
+Thanks for visiting the web-app.
+
 
